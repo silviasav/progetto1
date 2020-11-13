@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: it.sannita.angularspringboot.AngularSpringBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.427 s - in it.sannita.angularspringboot.AngularSpringBootApplicationTests
