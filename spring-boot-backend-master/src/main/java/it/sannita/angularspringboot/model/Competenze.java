@@ -1,6 +1,8 @@
 package it.sannita.angularspringboot.model;
 
 import java.io.Serializable;
+
+//modifica di prova
 import javax.persistence.*;
 import java.util.Date;
 
