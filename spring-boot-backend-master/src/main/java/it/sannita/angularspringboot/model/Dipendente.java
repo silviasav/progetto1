@@ -38,6 +38,8 @@ public class Dipendente implements Serializable {
 	private String matricola;
 
 	private String nome;
+	
+	private int numero = 2;
 
 	//bi-directional many-to-one association to Competenze
 	@OneToMany(mappedBy="dipendente")
