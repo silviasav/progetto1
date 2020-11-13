@@ -1,0 +1,16 @@
+it\sannita\angularspringboot\model\Tipmansione.class
+it\sannita\angularspringboot\repository\UserRepository.class
+it\sannita\angularspringboot\model\Storing.class
+it\sannita\angularspringboot\model\Ruolo.class
+it\sannita\angularspringboot\model\User.class
+it\sannita\angularspringboot\rest\UserController.class
+it\sannita\angularspringboot\model\Dipendente.class
+it\sannita\angularspringboot\repository\DipendentiRepository.class
+it\sannita\angularspringboot\model\Curriculum.class
+it\sannita\angularspringboot\model\Storingappo.class
+it\sannita\angularspringboot\AngularSpringBootApplication.class
+it\sannita\angularspringboot\model\Competenze.class
+it\sannita\angularspringboot\model\Tipassenza.class
+it\sannita\angularspringboot\model\Tipskill.class
+it\sannita\angularspringboot\model\Tipruolo.class
+it\sannita\angularspringboot\rest\DipendentiController.class
